@@ -1,7 +1,7 @@
-# Class-Data-for-LITA
+# Class HR Data
 ---
 
-## Project Title: Sales Performance Analysis for a retail Store
+## Project Title: Job Satisfaction a tool for reduction in attrition Rate
 ---
 [Project Overview](#project-overview)
 
@@ -9,7 +9,7 @@
 
 [Tools Used](#tools-used)
 
-[Data cleaniing and preparation](#data-cleaniing-and-preparation)
+[Data cleaning and preparation](#data-cleaning-and-preparation)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -46,7 +46,7 @@ The primary source of Data used here is Sales Data xlsl and this is an open Data
   2. Connect diparate Data Set
   3. find insight within given Data
 
-### Data cleaniing and preparations
+### Data cleaning and preparations
 ---
 To start with the Data cleaning, the following were carried out
   1.  Data importing and Inspection
