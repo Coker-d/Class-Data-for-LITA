@@ -73,6 +73,12 @@ ORDER BY Sales DESC
 
 ![Revenue](https://github.com/user-attachments/assets/272da263-2bd1-4d53-bf5c-6ebeb6b7e138)
 
+![Metrics 1](https://github.com/user-attachments/assets/bdad5c2c-1eaa-439f-aec2-a161964ab2f2)
+
+![Metrics 2](https://github.com/user-attachments/assets/a53f2047-e607-4bb6-b3bc-b4a053b33fc9)
+
+![year of birth](https://github.com/user-attachments/assets/4552bb68-c34e-449e-94fa-4ac9799c58cc)
+
 
 ![rev by region](https://github.com/user-attachments/assets/f6be78c3-e9ff-4eee-a3b0-31444678b3ae)
 
