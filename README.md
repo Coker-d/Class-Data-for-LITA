@@ -70,6 +70,19 @@ SELECT * From  table SalesData
 GROUP By Region
 ORDER BY Sales DESC
 ```
+
+![Revenue](https://github.com/user-attachments/assets/272da263-2bd1-4d53-bf5c-6ebeb6b7e138)
+
+
+![rev by region](https://github.com/user-attachments/assets/f6be78c3-e9ff-4eee-a3b0-31444678b3ae)
+
+![Sales per Region](https://github.com/user-attachments/assets/d19094ca-a59d-4d88-975e-fd298590b565)
+
+![rev by region](https://github.com/user-attachments/assets/028433d7-3151-4b66-a423-97617ecf35bc)
+![rev by region](https://github.com/user-attachments/assets/77181a06-ad5d-494c-b8bb-daceea051b06)
+
+![Hr data by Market](https://github.com/user-attachments/assets/4b1207cd-72e3-4af2-9774-dbfa56e69147)
+
 ![Map Data](https://github.com/user-attachments/assets/ef996e98-bf04-42b9-a27c-48ec7b7c62ae)
 
 ![lita class Dash board](https://github.com/user-attachments/assets/646185a0-b460-49c3-92dc-2dca28fd8881)
