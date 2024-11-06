@@ -78,10 +78,9 @@ this aspect involves digging deep into our data to answer questiions around our 
 ![rev by region](https://github.com/user-attachments/assets/77181a06-ad5d-494c-b8bb-daceea051b06)
 
 ![Hr data by Market](https://github.com/user-attachments/assets/4b1207cd-72e3-4af2-9774-dbfa56e69147)
-
 ![Map Data](https://github.com/user-attachments/assets/ef996e98-bf04-42b9-a27c-48ec7b7c62ae)
-
 ![Uploading MAp2.JPG…]()
+
 
 ![lita class Dash board](https://github.com/user-attachments/assets/646185a0-b460-49c3-92dc-2dca28fd8881)
 
