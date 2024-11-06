@@ -24,8 +24,7 @@ This Data aims at which enables me to tell a compelling story around this data f
 
 ### Data Source
 ---
-The primary source of Data used here is Sales Data xlsl and this is an open Data Source available for all the ladies in tech Afica to carry out their Final Examination. This is my Final Examination with Ladies in Tech Africa (Question 1)
-
+The primary source of Data used here is Sales Data xlsl and this is an open Data Source available for all the ladies in tech Afica used in class to lecture on how to learn about Power BI tool
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -33,10 +32,6 @@ The primary source of Data used here is Sales Data xlsl and this is an open Data
   2. for Analysis
   3. for Visualization
      
-- SQL - Structureed Query Lanquage  
-  1. Storind and processing Data in a related Database
-  2. Querring of Data
-  
 - Github for Portfolio Building
   1. Store Share and work with others to write codes
   2. Show case work done
@@ -57,19 +52,14 @@ To start with the Data cleaning, the following were carried out
 ### Exploratory Data Analysis
 ---
 this aspect involves digging deep into our data to answer questiions around our data such as
-  1.  Finding highest selling product
-  2. products with no sales in last quarter
-  3. Percentage total sales in each region
-  4. Monthly Sales Totals per annum
+  1.  Total Number of Employee
+  2. Count of Attrition
+  3. Number of Current Employee
+  4. Attrition Count by Department
+  5.  Attrition Count by Gender
+  6.   Attrition Count by Education
 
-### Data Analysis
----
-The basic lines of codes, querries and DAX expression used during this analysis
-```SQL
-SELECT * From  table SalesData
-GROUP By Region
-ORDER BY Sales DESC
-```
+## Visuals
 
 ![Revenue](https://github.com/user-attachments/assets/272da263-2bd1-4d53-bf5c-6ebeb6b7e138)
 
