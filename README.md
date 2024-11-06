@@ -69,3 +69,9 @@ The basic lines of codes, querries and DAX expression used during this analysis
 SELECT * From  table SalesData
 GROUP By Region
 ORDER BY Sales DESC
+```
+![Map Data](https://github.com/user-attachments/assets/ef996e98-bf04-42b9-a27c-48ec7b7c62ae)
+
+![lita class Dash board](https://github.com/user-attachments/assets/646185a0-b460-49c3-92dc-2dca28fd8881)
+
+
